@@ -3,7 +3,7 @@
 
 # Pig Dice Game
 
-[Live Preview](https://pig-dice-game-beta.vercel.app/)
+[Live Preview](https://pig-dicee-game.netlify.app/)
 
 This is a web-based implementation of the classic pig dice game, created using HTML, CSS, and JavaScript.
 
