@@ -1,4 +1,5 @@
 
+<img width="1440" alt="pig-dice-game-preview" src="https://github.com/aryans98/pig-dice-game/assets/84920015/3405e635-5011-4f84-8c23-4bff1dfeb621">
 
 # Pig Dice Game
 
